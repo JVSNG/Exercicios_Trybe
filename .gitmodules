@@ -1,6 +1,3 @@
 [submodule "Fundamentos_do_Desenvolvimento_Web/Bloco 02: Git, GitHub e Internet/Dia_02/submodules/Exercicio_Dia02"]
 	path = Fundamentos_do_Desenvolvimento_Web/Bloco 02: Git, GitHub e Internet/Dia_02/submodules/Exercicio_Dia02
 	url = git@github.com:JVSNG/Exercicio_Dia02.git
-[submodule "Fundamentos_do_Desenvolvimento_Web/Bloco 02: Git, GitHub e Internet/Dia_02/Fundamentos_do_Desenvolvimento_Web/Bloco"]
-	path = Fundamentos_do_Desenvolvimento_Web/Bloco 02: Git, GitHub e Internet/Dia_02/Fundamentos_do_Desenvolvimento_Web/Bloco
-	url = git@github.com:JVSNG/Exercicio_Dia02.git
